@@ -1,3 +1,16 @@
+
+##  MY NOTES:
+Dear fellow reviewer,
+
+this is my second submission of the assignment after my first submission to a separate branch weasn't 
+graded to pass.  I guess what happened is that  people was unaware about it and couldn't find my code.  
+This time I commited cachematrix.R  to theh mater branch and hope those who will evaluatecan easily find it .
+
+the reason I created a separate branch is because it was required in the asigment:
+    ".  Commit your completed R file into YOUR git repository **and push your
+    git branch** to the GitHub repository under your account."
+
+-----------------------------------------------------------------------------------------------------------
 ### Introduction
 
 This second programming assignment will require you to write an R
